@@ -1,1 +1,1 @@
-![MIAL Overview Img](BC-AI.png)
+![MIAL Overview Img](../BC-AI.png)
